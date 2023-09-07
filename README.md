@@ -1,2 +1,2 @@
 ﻿# wamserweb
-(website)[https://ersteller.github.io/wamserweb/index.html]
+[website](https://ersteller.github.io/wamserweb/index.html)
